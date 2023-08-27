@@ -35,7 +35,7 @@ const bundle = {
                     ]
                 },
                 {
-                    id : "6",
+                    id : "7",
                     name : "app.js",
                     isFolder : false,
                     item : []
